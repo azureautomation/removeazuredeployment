@@ -1,0 +1,20 @@
+{
+    "Author": "jlaari",
+    "ContentSize": 2488,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/removeazuredeployment/master/Remove-AzureDeployment.ps1",
+    "DownloadCount": 626,
+    "Id": "Remove-AzureDeployment-ff10b53d",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 538,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation shutdowns Azure Cloud Service (Web & Worker role) from specific slot and then removes deployment. This runbook needs AzureClassicRunAsConnection.You can use this Runbook for example to shutdown your test environments outside office hours in order to reduce c",
+    "Title": "Remove-AzureDeployment",
+    "UpdatedDate": "2017-3-21T00:00:00",
+    "Url": "https://github.com/azureautomation/removeazuredeployment",
+    "UserTags": "Runbook, Windows Azure PowerShell, Azure Automation"
+}
